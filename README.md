@@ -2,7 +2,7 @@
 
 This is a simple wallpaper website created using HTML, CSS, and Bootstrap. It allows users to view and download high-quality wallpapers.
 
-![Wallpaper Website](https://i.ibb.co/x24FV4W/Screenshot-82.png)
+![Wallpaper Website](https://i.ibb.co/93z0LYf/wally.png)
 
 ## Features
 - Home page with a carousel of wallpaper images.
